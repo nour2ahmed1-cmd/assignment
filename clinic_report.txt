@@ -1,0 +1,54 @@
+====== Clinic Patient Report ======
+
+Total Patients: 7
+========================================
+
+ID      : 5390
+Name    : Nour Almajayda
+Age     : 22 years
+Phone   : 0598738194
+Symptoms: fevar
+Visits  : 0
+----------------------------------------
+ID      : 4189
+Name    : Jeneen Awni
+Age     : 23 years
+Phone   : 0598768589
+Symptoms: Chest pain
+Visits  : 0
+----------------------------------------
+ID      : 9901
+Name    : Ibby Khalil
+Age     : 6 months
+Phone   : 0568745369
+Symptoms: loss of consciousness and numbness
+Visits  : 1
+----------------------------------------
+ID      : 9178
+Name    : Nour Ahmed
+Age     : 22 years
+Phone   : 0598745621
+Symptoms: Sudden confusion, dizziness
+Visits  : 0
+----------------------------------------
+ID      : 3494
+Name    : Mira Ahmed
+Age     : 13 years
+Phone   : 0569874235
+Symptoms: Headache
+Visits  : 0
+----------------------------------------
+ID      : 1733
+Name    : Khalid Safi
+Age     : 33 years
+Phone   : 0567821456
+Symptoms: Sore throat
+Visits  : 1
+----------------------------------------
+ID      : 4530
+Name    : Saad Mohamad
+Age     : 18 years
+Phone   : 0598745632
+Symptoms: Foot pain and skin rash
+Visits  : 1
+----------------------------------------
